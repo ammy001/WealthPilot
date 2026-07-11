@@ -1,0 +1,10 @@
+openai>=1.40
+python-dotenv>=1.0
+psycopg2-binary>=2.9
+pgvector>=0.2.5
+gradio>=4.44
+pypdf>=4.0
+mcp>=1.0
+yfinance>=0.2.40
+niftystocks>=0.14
+nsepython>=2.90
