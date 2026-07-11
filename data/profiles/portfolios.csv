@@ -1,0 +1,58 @@
+user_id,user_name,risk_tolerance,symbol,sector,buy_date,quantity,buy_price,invested_value
+U001,Marcus Chen,moderate,HCLTECH,Information Technology,2023-03-03,106,959.54,101711.24
+U001,Marcus Chen,moderate,BPCL,Oil Gas & Consumable Fuels,2024-07-23,375,285.57,107088.75
+U001,Marcus Chen,moderate,UNIONBANK,Financial Services,2026-01-21,953,161.23,153652.19
+U001,Marcus Chen,moderate,DIVISLAB,Healthcare,2026-01-21,11,5127.23,56399.53
+U001,Marcus Chen,moderate,ETERNAL,Consumer Services,2026-05-17,308,203.63,62718.04
+U002,Priya Nair,aggressive,DLF,Realty,2023-04-04,253,629.78,159334.34
+U002,Priya Nair,aggressive,HCLTECH,Information Technology,2023-06-11,210,973.73,204483.3
+U002,Priya Nair,aggressive,VEDL,Metals & Mining,2023-06-13,611,284.07,173566.77
+U002,Priya Nair,aggressive,TECHM,Information Technology,2023-07-18,26,1324.06,34425.56
+U002,Priya Nair,aggressive,KOTAKBANK,Financial Services,2024-06-25,243,351.87,85504.41
+U002,Priya Nair,aggressive,BOSCHLTD,Automobile and Auto Components,2025-01-10,5,35502.07,177510.35
+U002,Priya Nair,aggressive,HYUNDAI,Automobile and Auto Components,2026-01-03,80,2059.61,164768.8
+U003,Rajesh Kumar,conservative,HCLTECH,Information Technology,2023-05-27,69,1005.42,69373.98
+U003,Rajesh Kumar,conservative,M&M,Automobile and Auto Components,2024-05-16,16,3149.97,50399.52
+U003,Rajesh Kumar,conservative,IRFC,Financial Services,2024-12-28,500,96.6,48300.0
+U003,Rajesh Kumar,conservative,TVSMOTOR,Automobile and Auto Components,2026-02-14,34,2716.22,92351.48
+U004,Aisha Khan,moderate,HAL,Capital Goods,2024-03-25,20,4858.94,97178.8
+U004,Aisha Khan,moderate,ADANIPORTS,Services,2025-05-27,107,1575.1,168535.7
+U004,Aisha Khan,moderate,APOLLOHOSP,Healthcare,2025-07-28,28,7254.16,203116.48
+U004,Aisha Khan,moderate,JSWSTEEL,Metals & Mining,2025-10-07,32,1353.39,43308.48
+U004,Aisha Khan,moderate,ZYDUSLIFE,Healthcare,2025-10-19,69,1149.1,79287.9
+U004,Aisha Khan,moderate,DRREDDY,Healthcare,2026-02-23,40,1084.52,43380.8
+U004,Aisha Khan,moderate,WIPRO,Information Technology,2026-03-07,355,164.0,58220.0
+U005,Vikram Rao,aggressive,SUNPHARMA,Healthcare,2023-08-23,9,1909.48,17185.32
+U005,Vikram Rao,aggressive,KOTAKBANK,Financial Services,2024-06-23,300,360.5,108150.0
+U005,Vikram Rao,aggressive,BRITANNIA,Fast Moving Consumer Goods,2024-06-30,23,5537.45,127361.35
+U005,Vikram Rao,aggressive,TATAPOWER,Power,2024-08-24,212,398.88,84562.56
+U005,Vikram Rao,aggressive,BOSCHLTD,Automobile and Auto Components,2026-02-07,3,43347.78,130043.34
+U005,Vikram Rao,aggressive,BAJAJHLDNG,Financial Services,2026-05-05,9,10233.4,92100.6
+U006,Sunita Desai,conservative,SUNPHARMA,Healthcare,2023-01-02,104,1965.09,204369.36
+U006,Sunita Desai,conservative,HDFCLIFE,Financial Services,2023-08-18,199,577.83,114988.17
+U006,Sunita Desai,conservative,NESTLEIND,Fast Moving Consumer Goods,2024-02-12,83,1440.69,119577.27
+U006,Sunita Desai,conservative,BAJAJFINSV,Financial Services,2026-01-09,111,1543.67,171347.37
+U007,Arjun Mehta,aggressive,ASIANPAINT,Consumer Durables,2023-02-13,13,2177.17,28303.21
+U007,Arjun Mehta,aggressive,MUTHOOTFIN,Financial Services,2023-09-05,44,2783.78,122486.32
+U007,Arjun Mehta,aggressive,AXISBANK,Financial Services,2024-02-16,120,1410.52,169262.4
+U007,Arjun Mehta,aggressive,SBILIFE,Financial Services,2024-03-09,51,2003.2,102163.2
+U007,Arjun Mehta,aggressive,VEDL,Metals & Mining,2024-03-27,223,279.41,62308.43
+U007,Arjun Mehta,aggressive,ULTRACEMCO,Construction Materials,2025-02-03,8,11958.8,95670.4
+U007,Arjun Mehta,aggressive,EICHERMOT,Automobile and Auto Components,2025-08-31,6,6637.71,39826.26
+U007,Arjun Mehta,aggressive,APOLLOHOSP,Healthcare,2025-12-16,5,8964.12,44820.6
+U008,Deepa Iyer,moderate,TITAN,Consumer Durables,2023-05-26,42,4603.09,193329.78
+U008,Deepa Iyer,moderate,ASIANPAINT,Consumer Durables,2023-07-18,19,2794.92,53103.48
+U008,Deepa Iyer,moderate,DRREDDY,Healthcare,2025-08-26,52,1239.09,64432.68
+U008,Deepa Iyer,moderate,SUNPHARMA,Healthcare,2025-09-21,42,1701.58,71466.36
+U008,Deepa Iyer,moderate,APOLLOHOSP,Healthcare,2026-03-15,6,6691.44,40148.64
+U009,Farhan Ali,moderate,TCS,Information Technology,2023-01-31,122,1806.23,220360.06
+U009,Farhan Ali,moderate,TMPV,Automobile and Auto Components,2023-07-20,537,354.38,190302.06
+U009,Farhan Ali,moderate,JINDALSTEL,Metals & Mining,2023-08-12,165,1082.77,178657.05
+U009,Farhan Ali,moderate,KOTAKBANK,Financial Services,2025-04-04,83,423.12,35118.96
+U009,Farhan Ali,moderate,AMBUJACEM,Construction Materials,2025-06-26,526,388.28,204235.28
+U009,Farhan Ali,moderate,MARUTI,Automobile and Auto Components,2025-07-07,4,12101.74,48406.96
+U009,Farhan Ali,moderate,ULTRACEMCO,Construction Materials,2025-08-05,5,9816.76,49083.8
+U010,Lakshmi Menon,conservative,CGPOWER,Capital Goods,2023-05-01,159,611.64,97250.76
+U010,Lakshmi Menon,conservative,JINDALSTEL,Metals & Mining,2025-03-10,17,890.61,15140.37
+U010,Lakshmi Menon,conservative,MUTHOOTFIN,Financial Services,2025-07-20,69,2564.81,176971.89
+U010,Lakshmi Menon,conservative,MAZDOCK,Capital Goods,2026-02-12,75,2100.19,157514.25

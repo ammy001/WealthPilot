@@ -1,0 +1,578 @@
+[
+  {
+    "user_id": "U001",
+    "name": "Marcus Chen",
+    "age": 34,
+    "risk_tolerance": "moderate",
+    "goals": [
+      "retirement",
+      "house down-payment"
+    ],
+    "preferences": {
+      "crypto_cap_pct": 5,
+      "base_currency": "INR"
+    },
+    "monthly_investment_inr": 60000,
+    "created": "2023-08-17",
+    "holdings": [
+      {
+        "symbol": "HCLTECH",
+        "sector": "Information Technology",
+        "buy_date": "2023-03-03",
+        "quantity": 106,
+        "buy_price": 959.54
+      },
+      {
+        "symbol": "BPCL",
+        "sector": "Oil Gas & Consumable Fuels",
+        "buy_date": "2024-07-23",
+        "quantity": 375,
+        "buy_price": 285.57
+      },
+      {
+        "symbol": "UNIONBANK",
+        "sector": "Financial Services",
+        "buy_date": "2026-01-21",
+        "quantity": 953,
+        "buy_price": 161.23
+      },
+      {
+        "symbol": "DIVISLAB",
+        "sector": "Healthcare",
+        "buy_date": "2026-01-21",
+        "quantity": 11,
+        "buy_price": 5127.23
+      },
+      {
+        "symbol": "ETERNAL",
+        "sector": "Consumer Services",
+        "buy_date": "2026-05-17",
+        "quantity": 308,
+        "buy_price": 203.63
+      }
+    ]
+  },
+  {
+    "user_id": "U002",
+    "name": "Priya Nair",
+    "age": 29,
+    "risk_tolerance": "aggressive",
+    "goals": [
+      "wealth creation"
+    ],
+    "preferences": {
+      "crypto_cap_pct": 15,
+      "base_currency": "INR"
+    },
+    "monthly_investment_inr": 45000,
+    "created": "2023-01-14",
+    "holdings": [
+      {
+        "symbol": "DLF",
+        "sector": "Realty",
+        "buy_date": "2023-04-04",
+        "quantity": 253,
+        "buy_price": 629.78
+      },
+      {
+        "symbol": "HCLTECH",
+        "sector": "Information Technology",
+        "buy_date": "2023-06-11",
+        "quantity": 210,
+        "buy_price": 973.73
+      },
+      {
+        "symbol": "VEDL",
+        "sector": "Metals & Mining",
+        "buy_date": "2023-06-13",
+        "quantity": 611,
+        "buy_price": 284.07
+      },
+      {
+        "symbol": "TECHM",
+        "sector": "Information Technology",
+        "buy_date": "2023-07-18",
+        "quantity": 26,
+        "buy_price": 1324.06
+      },
+      {
+        "symbol": "KOTAKBANK",
+        "sector": "Financial Services",
+        "buy_date": "2024-06-25",
+        "quantity": 243,
+        "buy_price": 351.87
+      },
+      {
+        "symbol": "BOSCHLTD",
+        "sector": "Automobile and Auto Components",
+        "buy_date": "2025-01-10",
+        "quantity": 5,
+        "buy_price": 35502.07
+      },
+      {
+        "symbol": "HYUNDAI",
+        "sector": "Automobile and Auto Components",
+        "buy_date": "2026-01-03",
+        "quantity": 80,
+        "buy_price": 2059.61
+      }
+    ]
+  },
+  {
+    "user_id": "U003",
+    "name": "Rajesh Kumar",
+    "age": 52,
+    "risk_tolerance": "conservative",
+    "goals": [
+      "capital preservation",
+      "child education"
+    ],
+    "preferences": {
+      "crypto_cap_pct": 0,
+      "base_currency": "INR"
+    },
+    "monthly_investment_inr": 80000,
+    "created": "2024-04-21",
+    "holdings": [
+      {
+        "symbol": "HCLTECH",
+        "sector": "Information Technology",
+        "buy_date": "2023-05-27",
+        "quantity": 69,
+        "buy_price": 1005.42
+      },
+      {
+        "symbol": "M&M",
+        "sector": "Automobile and Auto Components",
+        "buy_date": "2024-05-16",
+        "quantity": 16,
+        "buy_price": 3149.97
+      },
+      {
+        "symbol": "IRFC",
+        "sector": "Financial Services",
+        "buy_date": "2024-12-28",
+        "quantity": 500,
+        "buy_price": 96.6
+      },
+      {
+        "symbol": "TVSMOTOR",
+        "sector": "Automobile and Auto Components",
+        "buy_date": "2026-02-14",
+        "quantity": 34,
+        "buy_price": 2716.22
+      }
+    ]
+  },
+  {
+    "user_id": "U004",
+    "name": "Aisha Khan",
+    "age": 41,
+    "risk_tolerance": "moderate",
+    "goals": [
+      "retirement",
+      "travel fund"
+    ],
+    "preferences": {
+      "crypto_cap_pct": 3,
+      "base_currency": "INR"
+    },
+    "monthly_investment_inr": 55000,
+    "created": "2024-03-25",
+    "holdings": [
+      {
+        "symbol": "HAL",
+        "sector": "Capital Goods",
+        "buy_date": "2024-03-25",
+        "quantity": 20,
+        "buy_price": 4858.94
+      },
+      {
+        "symbol": "ADANIPORTS",
+        "sector": "Services",
+        "buy_date": "2025-05-27",
+        "quantity": 107,
+        "buy_price": 1575.1
+      },
+      {
+        "symbol": "APOLLOHOSP",
+        "sector": "Healthcare",
+        "buy_date": "2025-07-28",
+        "quantity": 28,
+        "buy_price": 7254.16
+      },
+      {
+        "symbol": "JSWSTEEL",
+        "sector": "Metals & Mining",
+        "buy_date": "2025-10-07",
+        "quantity": 32,
+        "buy_price": 1353.39
+      },
+      {
+        "symbol": "ZYDUSLIFE",
+        "sector": "Healthcare",
+        "buy_date": "2025-10-19",
+        "quantity": 69,
+        "buy_price": 1149.1
+      },
+      {
+        "symbol": "DRREDDY",
+        "sector": "Healthcare",
+        "buy_date": "2026-02-23",
+        "quantity": 40,
+        "buy_price": 1084.52
+      },
+      {
+        "symbol": "WIPRO",
+        "sector": "Information Technology",
+        "buy_date": "2026-03-07",
+        "quantity": 355,
+        "buy_price": 164.0
+      }
+    ]
+  },
+  {
+    "user_id": "U005",
+    "name": "Vikram Rao",
+    "age": 38,
+    "risk_tolerance": "aggressive",
+    "goals": [
+      "early retirement (FIRE)"
+    ],
+    "preferences": {
+      "crypto_cap_pct": 20,
+      "base_currency": "INR"
+    },
+    "monthly_investment_inr": 70000,
+    "created": "2023-07-06",
+    "holdings": [
+      {
+        "symbol": "SUNPHARMA",
+        "sector": "Healthcare",
+        "buy_date": "2023-08-23",
+        "quantity": 9,
+        "buy_price": 1909.48
+      },
+      {
+        "symbol": "KOTAKBANK",
+        "sector": "Financial Services",
+        "buy_date": "2024-06-23",
+        "quantity": 300,
+        "buy_price": 360.5
+      },
+      {
+        "symbol": "BRITANNIA",
+        "sector": "Fast Moving Consumer Goods",
+        "buy_date": "2024-06-30",
+        "quantity": 23,
+        "buy_price": 5537.45
+      },
+      {
+        "symbol": "TATAPOWER",
+        "sector": "Power",
+        "buy_date": "2024-08-24",
+        "quantity": 212,
+        "buy_price": 398.88
+      },
+      {
+        "symbol": "BOSCHLTD",
+        "sector": "Automobile and Auto Components",
+        "buy_date": "2026-02-07",
+        "quantity": 3,
+        "buy_price": 43347.78
+      },
+      {
+        "symbol": "BAJAJHLDNG",
+        "sector": "Financial Services",
+        "buy_date": "2026-05-05",
+        "quantity": 9,
+        "buy_price": 10233.4
+      }
+    ]
+  },
+  {
+    "user_id": "U006",
+    "name": "Sunita Desai",
+    "age": 47,
+    "risk_tolerance": "conservative",
+    "goals": [
+      "retirement",
+      "healthcare buffer"
+    ],
+    "preferences": {
+      "crypto_cap_pct": 0,
+      "base_currency": "INR"
+    },
+    "monthly_investment_inr": 40000,
+    "created": "2025-10-22",
+    "holdings": [
+      {
+        "symbol": "SUNPHARMA",
+        "sector": "Healthcare",
+        "buy_date": "2023-01-02",
+        "quantity": 104,
+        "buy_price": 1965.09
+      },
+      {
+        "symbol": "HDFCLIFE",
+        "sector": "Financial Services",
+        "buy_date": "2023-08-18",
+        "quantity": 199,
+        "buy_price": 577.83
+      },
+      {
+        "symbol": "NESTLEIND",
+        "sector": "Fast Moving Consumer Goods",
+        "buy_date": "2024-02-12",
+        "quantity": 83,
+        "buy_price": 1440.69
+      },
+      {
+        "symbol": "BAJAJFINSV",
+        "sector": "Financial Services",
+        "buy_date": "2026-01-09",
+        "quantity": 111,
+        "buy_price": 1543.67
+      }
+    ]
+  },
+  {
+    "user_id": "U007",
+    "name": "Arjun Mehta",
+    "age": 26,
+    "risk_tolerance": "aggressive",
+    "goals": [
+      "wealth creation",
+      "starting a business"
+    ],
+    "preferences": {
+      "crypto_cap_pct": 25,
+      "base_currency": "INR"
+    },
+    "monthly_investment_inr": 30000,
+    "created": "2025-01-13",
+    "holdings": [
+      {
+        "symbol": "ASIANPAINT",
+        "sector": "Consumer Durables",
+        "buy_date": "2023-02-13",
+        "quantity": 13,
+        "buy_price": 2177.17
+      },
+      {
+        "symbol": "MUTHOOTFIN",
+        "sector": "Financial Services",
+        "buy_date": "2023-09-05",
+        "quantity": 44,
+        "buy_price": 2783.78
+      },
+      {
+        "symbol": "AXISBANK",
+        "sector": "Financial Services",
+        "buy_date": "2024-02-16",
+        "quantity": 120,
+        "buy_price": 1410.52
+      },
+      {
+        "symbol": "SBILIFE",
+        "sector": "Financial Services",
+        "buy_date": "2024-03-09",
+        "quantity": 51,
+        "buy_price": 2003.2
+      },
+      {
+        "symbol": "VEDL",
+        "sector": "Metals & Mining",
+        "buy_date": "2024-03-27",
+        "quantity": 223,
+        "buy_price": 279.41
+      },
+      {
+        "symbol": "ULTRACEMCO",
+        "sector": "Construction Materials",
+        "buy_date": "2025-02-03",
+        "quantity": 8,
+        "buy_price": 11958.8
+      },
+      {
+        "symbol": "EICHERMOT",
+        "sector": "Automobile and Auto Components",
+        "buy_date": "2025-08-31",
+        "quantity": 6,
+        "buy_price": 6637.71
+      },
+      {
+        "symbol": "APOLLOHOSP",
+        "sector": "Healthcare",
+        "buy_date": "2025-12-16",
+        "quantity": 5,
+        "buy_price": 8964.12
+      }
+    ]
+  },
+  {
+    "user_id": "U008",
+    "name": "Deepa Iyer",
+    "age": 35,
+    "risk_tolerance": "moderate",
+    "goals": [
+      "child education",
+      "home renovation"
+    ],
+    "preferences": {
+      "crypto_cap_pct": 5,
+      "base_currency": "INR"
+    },
+    "monthly_investment_inr": 50000,
+    "created": "2023-01-15",
+    "holdings": [
+      {
+        "symbol": "TITAN",
+        "sector": "Consumer Durables",
+        "buy_date": "2023-05-26",
+        "quantity": 42,
+        "buy_price": 4603.09
+      },
+      {
+        "symbol": "ASIANPAINT",
+        "sector": "Consumer Durables",
+        "buy_date": "2023-07-18",
+        "quantity": 19,
+        "buy_price": 2794.92
+      },
+      {
+        "symbol": "DRREDDY",
+        "sector": "Healthcare",
+        "buy_date": "2025-08-26",
+        "quantity": 52,
+        "buy_price": 1239.09
+      },
+      {
+        "symbol": "SUNPHARMA",
+        "sector": "Healthcare",
+        "buy_date": "2025-09-21",
+        "quantity": 42,
+        "buy_price": 1701.58
+      },
+      {
+        "symbol": "APOLLOHOSP",
+        "sector": "Healthcare",
+        "buy_date": "2026-03-15",
+        "quantity": 6,
+        "buy_price": 6691.44
+      }
+    ]
+  },
+  {
+    "user_id": "U009",
+    "name": "Farhan Ali",
+    "age": 44,
+    "risk_tolerance": "moderate",
+    "goals": [
+      "retirement"
+    ],
+    "preferences": {
+      "crypto_cap_pct": 2,
+      "base_currency": "INR"
+    },
+    "monthly_investment_inr": 65000,
+    "created": "2025-06-01",
+    "holdings": [
+      {
+        "symbol": "TCS",
+        "sector": "Information Technology",
+        "buy_date": "2023-01-31",
+        "quantity": 122,
+        "buy_price": 1806.23
+      },
+      {
+        "symbol": "TMPV",
+        "sector": "Automobile and Auto Components",
+        "buy_date": "2023-07-20",
+        "quantity": 537,
+        "buy_price": 354.38
+      },
+      {
+        "symbol": "JINDALSTEL",
+        "sector": "Metals & Mining",
+        "buy_date": "2023-08-12",
+        "quantity": 165,
+        "buy_price": 1082.77
+      },
+      {
+        "symbol": "KOTAKBANK",
+        "sector": "Financial Services",
+        "buy_date": "2025-04-04",
+        "quantity": 83,
+        "buy_price": 423.12
+      },
+      {
+        "symbol": "AMBUJACEM",
+        "sector": "Construction Materials",
+        "buy_date": "2025-06-26",
+        "quantity": 526,
+        "buy_price": 388.28
+      },
+      {
+        "symbol": "MARUTI",
+        "sector": "Automobile and Auto Components",
+        "buy_date": "2025-07-07",
+        "quantity": 4,
+        "buy_price": 12101.74
+      },
+      {
+        "symbol": "ULTRACEMCO",
+        "sector": "Construction Materials",
+        "buy_date": "2025-08-05",
+        "quantity": 5,
+        "buy_price": 9816.76
+      }
+    ]
+  },
+  {
+    "user_id": "U010",
+    "name": "Lakshmi Menon",
+    "age": 58,
+    "risk_tolerance": "conservative",
+    "goals": [
+      "retirement income",
+      "legacy"
+    ],
+    "preferences": {
+      "crypto_cap_pct": 0,
+      "base_currency": "INR"
+    },
+    "monthly_investment_inr": 35000,
+    "created": "2023-07-11",
+    "holdings": [
+      {
+        "symbol": "CGPOWER",
+        "sector": "Capital Goods",
+        "buy_date": "2023-05-01",
+        "quantity": 159,
+        "buy_price": 611.64
+      },
+      {
+        "symbol": "JINDALSTEL",
+        "sector": "Metals & Mining",
+        "buy_date": "2025-03-10",
+        "quantity": 17,
+        "buy_price": 890.61
+      },
+      {
+        "symbol": "MUTHOOTFIN",
+        "sector": "Financial Services",
+        "buy_date": "2025-07-20",
+        "quantity": 69,
+        "buy_price": 2564.81
+      },
+      {
+        "symbol": "MAZDOCK",
+        "sector": "Capital Goods",
+        "buy_date": "2026-02-12",
+        "quantity": 75,
+        "buy_price": 2100.19
+      }
+    ]
+  }
+]
