@@ -1,0 +1,101 @@
+symbol,name,sector,nse_industry,price,currency,market_cap,trailing_pe,price_to_book,dividend_yield,fifty_two_week_low,fifty_two_week_high,beta,status
+ABB,ABB India Ltd.,Industrials,Capital Goods,6867.0,INR,1455174713344,93.901276,18.5704,0.58,4637.5,7822.5,0.522,ok
+ADANIENSOL,Adani Energy Solutions Ltd.,Utilities,Power,1671.6,INR,2008064065536,90.161804,7.897198,,744.9,1712.0,0.841,ok
+ADANIENT,Adani Enterprises Ltd.,Energy,Metals & Mining,3168.0,INR,4507979743232,42.455105,5.0604525,0.04,1753.0,3245.0,0.825,ok
+ADANIGREEN,Adani Green Energy Ltd.,Utilities,Power,1543.8,INR,2542910570496,160.31152,13.182478,,765.0,1589.1,1.159,ok
+ADANIPORTS,Adani Ports and Special Economic Zone Ltd.,Industrials,Services,1843.3,INR,4246887727104,31.655504,4.4257436,0.42,1290.5,1891.1,0.512,ok
+ADANIPOWER,Adani Power Ltd.,Utilities,Power,219.98,INR,4242247254016,33.229607,6.53283,,110.45,254.2,0.527,ok
+AMBUJACEM,Ambuja Cements Ltd.,Basic Materials,Construction Materials,437.0,INR,1085865066496,22.583979,1.8201128,0.47,394.0,624.95,0.132,ok
+APOLLOHOSP,Apollo Hospitals Enterprise Ltd.,Healthcare,Healthcare,8823.5,INR,1268683898880,65.45623,13.379684,0.23,6696.5,8950.0,0.179,ok
+ASIANPAINT,Asian Paints Ltd.,Basic Materials,Consumer Durables,2685.2,INR,2574151581696,59.420227,12.051685,1.03,2115.0,2985.7,0.304,ok
+DMART,Avenue Supermarts Ltd.,Consumer Defensive,Consumer Services,4068.4,INR,2653597466624,88.251625,10.82171,,3529.0,4949.5,0.192,ok
+AXISBANK,Axis Bank Ltd.,Financial Services,Financial Services,1315.7,INR,4093031481344,15.577788,1.9017429,0.08,1042.5,1418.3,0.422,ok
+BAJAJ-AUTO,Bajaj Auto Ltd.,Consumer Cyclical,Automobile and Auto Components,10180.5,INR,2843126005760,26.497917,7.3275375,1.48,7858.5,10834.0,0.689,ok
+BAJFINANCE,Bajaj Finance Ltd.,Financial Services,Financial Services,1012.9,INR,6298087194624,33.418015,5.5237446,0.53,787.9,1102.5,0.353,ok
+BAJAJFINSV,Bajaj Finserv Ltd.,Financial Services,Financial Services,1904.7,INR,3045107171328,31.209242,3.9031696,0.07,1597.0,2195.0,0.341,ok
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd.,Financial Services,Financial Services,10650.0,INR,1185275838464,12.2956505,1.6201147,1.55,8588.0,14763.0,0.126,ok
+BANKBARODA,Bank of Baroda,Financial Services,Financial Services,248.65,INR,1285859180544,6.369108,0.77522886,3.54,230.81,325.5,0.421,ok
+BEL,Bharat Electronics Ltd.,Industrials,Capital Goods,413.3,INR,3021131481088,49.97581,12.594082,1.07,361.2,473.45,0.248,ok
+BPCL,Bharat Petroleum Corporation Ltd.,Energy,Oil Gas & Consumable Fuels,311.35,INR,1330269388800,5.0691957,1.328438,6.59,266.6,391.65,0.891,ok
+BHARTIARTL,Bharti Airtel Ltd.,Communication Services,Telecommunication,1915.5,INR,11950149861376,43.171062,7.5126486,0.85,1740.5,2174.5,0.016,ok
+BOSCHLTD,Bosch Ltd.,Consumer Cyclical,Automobile and Auto Components,41935.0,INR,1236918992896,44.5932,8.331936,0.65,28610.0,42565.0,0.635,ok
+BRITANNIA,Britannia Industries Ltd.,Consumer Defensive,Fast Moving Consumer Goods,5363.5,INR,1291897012224,50.95962,25.30084,1.7,5035.0,6336.0,0.468,ok
+CGPOWER,CG Power and Industrial Solutions Ltd.,Industrials,Capital Goods,919.85,INR,1448744583168,118.843666,18.17562,0.14,525.5,980.9,0.407,ok
+CANBK,Canara Bank,Financial Services,Financial Services,125.99,INR,1142811394048,5.6270657,0.97091633,3.47,103.55,162.89,0.492,ok
+CHOLAFIN,Cholamandalam Investment and Finance Company Ltd.,Financial Services,Financial Services,1816.2,INR,1551058468864,29.040613,5.0750837,0.08,1299.4,1875.0,0.524,ok
+CIPLA,Cipla Ltd.,Healthcare,Healthcare,1449.6,INR,1171052560384,30.024855,3.4007971,0.91,1165.7,1673.0,0.113,ok
+COALINDIA,Coal India Ltd.,Energy,Oil Gas & Consumable Fuels,428.9,INR,2643194281984,8.48299,2.2190604,5.13,368.65,491.25,-0.037,ok
+CUMMINSIND,Cummins India Ltd.,Industrials,Capital Goods,5621.5,INR,1558279749632,65.43475,18.385876,1.2,3465.0,6100.0,0.572,ok
+DLF,DLF Ltd.,Real Estate,Realty,686.05,INR,1698187444224,37.023743,3.7379994,0.95,489.4,856.45,0.297,ok
+DIVISLAB,Divi's Laboratories Ltd.,Healthcare,Healthcare,6812.5,INR,1808504717312,70.52277,10.782189,0.44,5636.5,6982.5,0.222,ok
+DRREDDY,Dr. Reddy's Laboratories Ltd.,Healthcare,Healthcare,1241.3,INR,1033643229184,24.149805,2.7412417,0.59,1148.4,1414.9,0.259,ok
+EICHERMOT,Eicher Motors Ltd.,Consumer Cyclical,Automobile and Auto Components,7352.0,INR,2018105884672,36.56984,8.034709,1.11,5353.0,8230.0,0.275,ok
+ETERNAL,Eternal Ltd.,Consumer Cyclical,Consumer Services,288.0,INR,2651153235968,702.439,8.513406,,212.6,368.45,0.254,ok
+GAIL,GAIL (India) Ltd.,Utilities,Oil Gas & Consumable Fuels,173.0,INR,1137488691200,14.926661,1.2762913,7.39,134.36,188.89,0.548,ok
+GODREJCP,Godrej Consumer Products Ltd.,Consumer Defensive,Fast Moving Consumer Goods,1088.7,INR,1114072023040,59.23286,8.794519,1.86,967.05,1309.0,0.324,ok
+GRASIM,Grasim Industries Ltd.,Basic Materials,Construction Materials,3229.3,INR,2190023458816,43.422077,2.1164234,0.32,2502.5,3246.0,0.328,ok
+HCLTECH,HCL Technologies Ltd.,Technology,Information Technology,1161.9,INR,3143830339584,18.843658,4.1483397,8.38,1030.0,1780.1,0.062,ok
+HDFCAMC,HDFC Asset Management Company Ltd.,Financial Services,Financial Services,2763.3,INR,1184497532928,41.565884,12.827321,2.03,2205.6,2967.25,0.555,ok
+HDFCBANK,HDFC Bank Ltd.,Financial Services,Financial Services,824.25,INR,12694444834816,18.231586,2.165045,1.6,726.65,1020.5,0.422,ok
+HDFCLIFE,HDFC Life Insurance Company Ltd.,Financial Services,Financial Services,569.2,INR,1236265598976,64.38914,6.9197755,0.38,543.0,815.0,0.501,ok
+HINDALCO,Hindalco Industries Ltd.,Basic Materials,Metals & Mining,975.0,INR,2164341211136,16.323456,1.5846341,0.51,657.5,1176.0,0.826,ok
+HAL,Hindustan Aeronautics Ltd.,Industrials,Capital Goods,4513.9,INR,3018783195136,33.146572,7.3558335,0.46,3479.1,5034.0,0.491,ok
+HINDUNILVR,Hindustan Unilever Ltd.,Consumer Defensive,Fast Moving Consumer Goods,2154.0,INR,5061019697152,47.382317,10.383925,2.06,2022.5,2750.0,0.364,ok
+HINDZINC,Hindustan Zinc Ltd.,Basic Materials,Metals & Mining,536.7,INR,2267728838656,16.458141,10.021286,3.96,413.5,733.0,0.673,ok
+HYUNDAI,Hyundai Motor India Ltd.,Consumer Cyclical,Automobile and Auto Components,1960.0,INR,1592580636672,29.297459,7.9585505,1.1,1658.0,2890.0,,ok
+ICICIBANK,ICICI Bank Ltd.,Financial Services,Financial Services,1400.5,INR,10045616029696,18.715755,2.7624037,0.87,1187.6,1500.0,0.235,ok
+ITC,ITC Ltd.,Consumer Defensive,Fast Moving Consumer Goods,281.05,INR,3521406828544,16.951145,4.856659,5.7,275.05,427.0,-0.081,ok
+INDHOTEL,Indian Hotels Co. Ltd.,Consumer Cyclical,Consumer Services,738.5,INR,1051204648960,50.34083,8.053786,0.45,565.0,811.95,-0.156,ok
+IOC,Indian Oil Corporation Ltd.,Energy,Oil Gas & Consumable Fuels,138.87,INR,1961016295424,4.52198,0.8710843,5.99,130.22,188.96,0.786,ok
+IRFC,Indian Railway Finance Corporation Ltd.,Financial Services,Financial Services,89.51,INR,1169762025472,16.575926,2.0594528,3.31,86.93,138.94,0.354,ok
+INFY,Infosys Ltd.,Technology,Information Technology,1067.5,INR,4322230534144,14.388731,4.6620345,4.68,982.4,1728.0,0.131,ok
+INDIGO,InterGlobe Aviation Ltd.,Industrials,Services,5339.0,INR,2064412966912,,29.602072,0.24,3895.2,6232.5,0.606,ok
+JSWSTEEL,JSW Steel Ltd.,Basic Materials,Metals & Mining,1248.5,INR,3047372357632,13.686691,3.0457609,0.58,1017.4,1328.0,0.577,ok
+JINDALSTEL,Jindal Steel Ltd.,Basic Materials,Metals & Mining,1049.5,INR,1067853807616,31.70695,2.0975652,0.2,927.2,1306.2,0.607,ok
+JIOFIN,Jio Financial Services Ltd.,Financial Services,Financial Services,240.28,INR,1586602835968,98.07346,1.1364195,0.22,223.3,338.6,0.564,ok
+KOTAKBANK,Kotak Mahindra Bank Ltd.,Financial Services,Financial Services,379.4,INR,3773688971264,19.200405,2.0832074,0.18,345.5,453.2,0.287,ok
+LTM,LTM Ltd.,Technology,Information Technology,3911.0,INR,1159459766272,22.750277,4.8260536,1.98,3528.0,6429.5,0.255,ok
+LT,Larsen & Toubro Ltd.,Industrials,Construction,3924.1,INR,5398498639872,33.66015,4.939268,0.98,3288.1,4440.0,0.46,ok
+LODHA,Lodha Developers Ltd.,Real Estate,Realty,1144.6,INR,1143358226432,31.273224,4.9100018,0.38,650.8,1461.5,0.581,ok
+M&M,Mahindra & Mahindra Ltd.,Consumer Cyclical,Automobile and Auto Components,3123.9,INR,3751060963328,20.50745,3.7496488,1.06,2896.0,3839.9,0.337,ok
+MARUTI,Maruti Suzuki India Ltd.,Consumer Cyclical,Automobile and Auto Components,13829.0,INR,4347872935936,30.070232,4.057487,1.0,12201.0,17370.0,0.265,ok
+MAXHEALTH,Max Healthcare Institute Ltd.,Healthcare,Healthcare,1104.4,INR,1074850430976,73.72497,9.991224,0.18,903.0,1301.7,0.082,ok
+MAZDOCK,Mazagoan Dock Shipbuilders Ltd.,Industrials,Capital Goods,2431.2,INR,980697415680,38.011257,10.053385,0.78,2057.4,3300.7,0.565,ok
+MUTHOOTFIN,Muthoot Finance Ltd.,Financial Services,Financial Services,3120.9,INR,1252942938112,11.824726,3.201997,0.97,2476.6,4149.5,0.501,ok
+NTPC,NTPC Ltd.,Utilities,Power,344.25,INR,3338077470720,11.471176,1.6436374,3.25,315.55,414.4,0.28,ok
+NESTLEIND,Nestle India Ltd.,Consumer Defensive,Fast Moving Consumer Goods,1451.5,INR,2798948188160,80.06068,54.275887,0.83,1084.7,1498.1,0.442,ok
+ONGC,Oil & Natural Gas Corporation Ltd.,Energy,Oil Gas & Consumable Fuels,244.4,INR,3074620129280,7.5246305,0.82707274,7.49,227.65,307.5,0.127,ok
+PIDILITIND,Pidilite Industries Ltd.,Basic Materials,Chemicals,1596.9,INR,1625285459968,66.45443,15.008318,0.73,1259.0,1626.7,0.365,ok
+PFC,Power Finance Corporation Ltd.,Financial Services,Financial Services,405.85,INR,1339346255872,5.163486,1.0080049,3.91,329.9,486.5,0.62,ok
+POWERGRID,Power Grid Corporation of India Ltd.,Utilities,Power,282.25,INR,2625095335936,14.035305,2.6112256,4.38,250.0,324.95,0.177,ok
+PNB,Punjab National Bank,Financial Services,Financial Services,104.0,INR,1195266015232,6.3414636,0.79698986,2.97,98.5,135.15,0.527,ok
+RECLTD,REC Ltd.,Financial Services,Financial Services,354.2,INR,932687970304,5.679013,1.1075777,6.65,304.05,408.25,0.337,ok
+RELIANCE,Reliance Industries Ltd.,Energy,Oil Gas & Consumable Fuels,1301.9,INR,17617926488064,21.738188,1.948821,0.47,1253.2,1611.8,0.184,ok
+SBILIFE,SBI Life Insurance Company Ltd.,Financial Services,Financial Services,1850.3,INR,1856333938688,73.599846,9.726442,0.15,1700.4,2132.0,0.341,ok
+MOTHERSON,Samvardhana Motherson International Ltd.,Consumer Cyclical,Automobile and Auto Components,143.87,INR,1515128094720,38.778973,3.7015023,0.36,89.7,155.25,1.018,ok
+SHREECEM,Shree Cement Ltd.,Basic Materials,Construction Materials,26545.0,INR,957763485696,54.786182,10.394376,0.54,22550.0,32490.0,,ok
+SHRIRAMFIN,Shriram Finance Ltd.,Financial Services,Financial Services,1044.9,INR,2458595885056,19.292837,2.98254,1.36,566.5,1108.0,0.574,ok
+ENRIN,Siemens Energy India Ltd.,Utilities,Capital Goods,3440.8,INR,1225339437056,93.12043,25.465338,0.12,2115.0,3968.0,,ok
+SIEMENS,Siemens Ltd.,Industrials,Capital Goods,3524.1,INR,1255004307456,74.097984,9.0613165,0.39,2826.0,3937.3,,ok
+SOLARINDS,Solar Industries India Ltd.,Basic Materials,Chemicals,18193.0,INR,1646285553664,101.631195,26.225655,0.06,11646.0,18972.0,0.203,ok
+SBIN,State Bank of India,Financial Services,Financial Services,1025.5,INR,9465998868480,11.19786,1.5879062,1.71,786.55,1234.7,0.362,ok
+SUNPHARMA,Sun Pharmaceutical Industries Ltd.,Healthcare,Healthcare,1937.2,INR,4647991377920,39.494392,5.561792,0.85,1548.0,1953.9,0.076,ok
+TVSMOTOR,TVS Motor Company Ltd.,Consumer Cyclical,Automobile and Auto Components,3627.6,INR,1723788165120,56.952427,51.5879,0.33,2728.7,3970.0,0.04,ok
+TATACAP,Tata Capital Ltd.,Financial Services,Financial Services,359.15,INR,1514425155584,29.681816,3.3227556,,296.0,379.95,,ok
+TCS,Tata Consultancy Services Ltd.,Technology,Information Technology,2066.9,INR,7478224355328,15.257252,6.9733467,6.03,1976.8,3399.0,0.241,ok
+TATACONSUM,Tata Consumer Products Ltd.,Consumer Defensive,Fast Moving Consumer Goods,1106.8,INR,1095346814976,69.91788,5.387907,0.92,1007.2,1282.7,0.42,ok
+TMCV,Tata Motors Ltd.,Consumer Cyclical,Capital Goods,419.9,INR,1546277093376,50.773876,12.142506,0.96,306.3,509.0,,ok
+TMPV,Tata Motors Passenger Vehicles Ltd.,Consumer Cyclical,Automobile and Auto Components,335.4,INR,1235138248704,,1.1020714,0.9,294.3,739.7,0.822,ok
+TATAPOWER,Tata Power Co. Ltd.,Utilities,Power,380.5,INR,1215826624512,32.46587,3.0798993,0.67,342.5,464.9,0.325,ok
+TATASTEEL,Tata Steel Ltd.,Basic Materials,Metals & Mining,190.68,INR,2378131832832,22.069443,2.329855,2.13,152.51,224.4,0.747,ok
+TECHM,Tech Mahindra Ltd.,Technology,Information Technology,1446.8,INR,1281696333824,26.764706,4.3267508,3.57,1304.1,1854.0,0.173,ok
+TITAN,Titan Company Ltd.,Consumer Cyclical,Consumer Durables,4595.0,INR,4075972984832,80.68481,25.978798,0.33,3303.1,4679.8,0.219,ok
+TORNTPHARM,Torrent Pharmaceuticals Ltd.,Healthcare,Healthcare,4877.6,INR,1650801508352,76.511375,19.679485,0.78,3309.4,4948.0,0.142,ok
+TRENT,Trent Ltd.,Consumer Cyclical,Consumer Services,2906.5,INR,1549839630336,90.97026,22.189054,0.14,2183.6667,5674.0,0.331,ok
+ULTRACEMCO,UltraTech Cement Ltd.,Basic Materials,Construction Materials,11636.0,INR,3422957862912,42.005703,4.7515426,0.68,10325.0,13110.0,0.453,ok
+UNIONBANK,Union Bank of India,Financial Services,Financial Services,159.63,INR,1218552528896,6.274764,0.9131316,3.24,124.64,205.49,0.886,ok
+UNITDSPR,United Spirits Ltd.,Consumer Defensive,Fast Moving Consumer Goods,1383.6,INR,1006432288768,57.43462,10.972331,1.21,1210.8,1488.0,0.2,ok
+VBL,Varun Beverages Ltd.,Consumer Defensive,Fast Moving Consumer Goods,480.1,INR,1623921393664,50.377758,8.293172,0.42,381.0,555.8,0.256,ok
+VEDL,Vedanta Ltd.,Basic Materials,Metals & Mining,272.95,INR,1065815703552,15.214604,2.146576,12.49,268.7,795.0,0.276,ok
+WIPRO,Wipro Ltd.,Technology,Information Technology,175.49,INR,1735943258112,13.972134,2.076559,9.84,169.0,273.1,0.378,ok
+ZYDUSLIFE,Zydus Lifesciences Ltd.,Healthcare,Healthcare,1153.7,INR,1150820155392,23.05095,4.2806363,0.09,835.5,1181.5,0.399,ok

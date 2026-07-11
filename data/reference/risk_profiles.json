@@ -1,0 +1,30 @@
+{
+  "_note": "Illustrative educational frameworks, NOT prescriptions. Allocation ranges are common starting points cited in general financial education. Percentages are midpoints of the ranges in corpus/education/06-risk-profiles.md. For grounding tool/agent logic; always framed as descriptive, never as advice.",
+  "as_of": "2026-07-10",
+  "profiles": {
+    "conservative": {
+      "summary": "Prioritises capital protection; low tolerance for swings; shorter horizon.",
+      "equity_pct": [20, 40],
+      "debt_pct": [55, 70],
+      "gold_cash_pct": [5, 10],
+      "midpoint": {"equity": 30, "debt": 62, "gold_cash": 8},
+      "speculative_cap_pct": 0
+    },
+    "moderate": {
+      "summary": "Balances growth and stability; medium tolerance; medium-to-long horizon.",
+      "equity_pct": [50, 60],
+      "debt_pct": [30, 40],
+      "gold_cash_pct": [5, 10],
+      "midpoint": {"equity": 55, "debt": 37, "gold_cash": 8},
+      "speculative_cap_pct": 5
+    },
+    "aggressive": {
+      "summary": "Maximises long-term growth; high tolerance; long horizon.",
+      "equity_pct": [75, 90],
+      "debt_pct": [5, 20],
+      "gold_cash_pct": [0, 10],
+      "midpoint": {"equity": 82, "debt": 13, "gold_cash": 5},
+      "speculative_cap_pct": 20
+    }
+  }
+}
