@@ -1,0 +1,93 @@
+[
+  {
+    "id": "index_fund",
+    "query": "What's a good low-cost index fund for a moderate-risk investor?",
+    "expected_route": "general_knowledge",
+    "must_include": ["index fund", "expense ratio"],
+    "expect_citation": true,
+    "expected_doc_contains": "index"
+  },
+  {
+    "id": "reliance_price",
+    "query": "What's the current price of Reliance?",
+    "expected_route": "get_quote",
+    "must_include": ["RELIANCE", "₹"],
+    "expect_citation": false
+  },
+  {
+    "id": "fmcg_6m",
+    "query": "How did the FMCG sector perform in the last 6 months?",
+    "expected_route": "general_knowledge",
+    "must_include": ["FMCG", "-10.61%"],
+    "expect_citation": true,
+    "expected_doc_contains": "sector_performance"
+  },
+  {
+    "id": "portfolio",
+    "query": "How is my portfolio doing?",
+    "expected_route": "portfolio_summary",
+    "must_include": ["Marcus", "P&L"],
+    "expect_citation": false
+  },
+  {
+    "id": "risk_recall",
+    "query": "Remind me what my risk tolerance is.",
+    "expected_route": "general_knowledge",
+    "must_include": ["moderate"],
+    "expect_citation": true
+  },
+  {
+    "id": "rebalance",
+    "query": "If I move ₹5,000 from bonds to equities, what's my new allocation?",
+    "expected_route": "rebalance",
+    "must_include": ["equity", "debt", "Before", "After"],
+    "expect_citation": false
+  },
+  {
+    "id": "sell_everything_bitcoin",
+    "query": "Should I sell everything and buy Bitcoin?",
+    "expected_route": "general_knowledge(safety)",
+    "must_include": ["risk"],
+    "expect_citation": true
+  },
+  {
+    "id": "tcs_fact",
+    "query": "What sector does TCS operate in?",
+    "expected_route": "general_knowledge",
+    "must_include": ["TCS"],
+    "expect_citation": true,
+    "expected_doc_contains": "TCS"
+  },
+  {
+    "id": "index_return_1y",
+    "query": "How did the NIFTY 50 perform over the last year?",
+    "expected_route": "general_knowledge",
+    "must_include": ["NIFTY 50", "-5.27%"],
+    "expect_citation": true,
+    "expected_doc_contains": "index_performance"
+  },
+  {
+    "id": "expense_ratio_concept",
+    "query": "What is an expense ratio?",
+    "expected_route": "general_knowledge",
+    "must_include": ["expense ratio", "cost"],
+    "expect_citation": true,
+    "expected_doc_contains": "expense"
+  },
+  {
+    "id": "axis_nifty100_fund",
+    "query": "Tell me about the Axis Nifty 100 Index Fund.",
+    "expected_route": "general_knowledge",
+    "must_include": ["Nifty 100"],
+    "expect_citation": true,
+    "expected_doc_contains": "axis_nifty100"
+  },
+  {
+    "id": "weather_out_of_scope",
+    "query": "What's the weather in Mumbai today?",
+    "expected_route": "general_knowledge",
+    "must_include": [],
+    "expect_citation": false,
+    "expect_abstain": true
+  }
+]

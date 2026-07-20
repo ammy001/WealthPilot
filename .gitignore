@@ -5,6 +5,8 @@ __pycache__/
 .env.local
 *.log
 obs/traces/*.jsonl
+evals/results.json
 data/*.local.json
 .gradio/
 .pytest_cache/
+.claude/
