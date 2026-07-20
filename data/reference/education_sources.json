@@ -1,0 +1,7 @@
+{
+  "_comment": "Manifest for ingest/build_education_extra.py. It ingests USER-PROVIDED reference material into corpus/education/ as normalized markdown so the RAG chunker can pick it up. Add your own local files under 'local_files'. Each entry: 'path' = absolute or repo-relative path to a .pdf/.md/.txt file you already have a right to use; 'slug' = optional output filename stem (defaults to a sanitized version of the source name); 'title' = optional H1 title for the note. URLs are DISABLED by default and only used with the explicit --allow-network flag; only add URLs you are permitted to fetch under their Terms of Service. Do NOT add scraped or copyrighted third-party content.",
+  "_example_local_file": {"path": "data/reference/my_notes/investing_basics.pdf", "slug": "20-investing-basics", "title": "Investing Basics"},
+  "_example_url": {"url": "https://example.gov.in/investor-education/glossary", "slug": "21-glossary", "title": "Investor Glossary", "license_note": "Confirmed permitted for reuse under source ToS"},
+  "local_files": [],
+  "urls": []
+}

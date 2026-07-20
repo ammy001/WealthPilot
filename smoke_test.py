@@ -25,7 +25,7 @@ def check_chat():
     resp = chat(
         messages=[{"role": "user", "content": "Reply with exactly the word: pong"}],
         temperature=0,
-        max_tokens=20,
+        max_tokens=1024,  # reasoning model spends tokens thinking before content
     )
     text = (resp.choices[0].message.content or "").strip()
     record("chat completion", bool(text), f"provider={PROVIDER} model={MODEL} reply={text!r}")
@@ -52,6 +52,7 @@ def check_tool_calling():
         ],
         tools=tools,
         temperature=0,
+        max_tokens=1024,
     )
     msg = resp.choices[0].message
     calls = msg.tool_calls or []
@@ -70,15 +71,16 @@ def check_embeddings():
 
 
 def check_pgvector():
-    from db import connect, ensure_vector_extension
+    from db import connect, vector_extension_version
+    import config
     conn = connect()
     try:
-        ensure_vector_extension(conn)
+        ver = vector_extension_version(conn)
         with conn.cursor() as cur:
-            cur.execute("SELECT extversion FROM pg_extension WHERE extname='vector';")
-            row = cur.fetchone()
-        ver = row[0] if row else None
-        record("pgvector", ver is not None, f"vector extension version={ver}")
+            cur.execute("SELECT current_schema()")
+            schema = cur.fetchone()[0]
+        record("pgvector", ver is not None,
+               f"vector={ver} schema={schema} (target {config.PG_SCHEMA})")
     finally:
         conn.close()
 

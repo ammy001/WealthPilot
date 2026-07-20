@@ -1,0 +1,12 @@
+# Build context is the project root; keep the image small and secrets out.
+.git
+.venv
+__pycache__
+**/__pycache__
+*.pyc
+.env
+*.pdf
+docs/*.pdf
+scratchpad
+*.tar
+.pytest_cache
